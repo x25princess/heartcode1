@@ -1,0 +1,3 @@
+time,message,cpu,ram,threads,state
+2025-04-11 10:27:11,=== CRITICAL STRAIN SESSION STARTED ===,0.8%,40.8%,4,Stable
+2025-04-11 10:27:12,Elenya is initiating unstable creation...,4.7%,40.8%,4,Stable

@@ -1,0 +1,31 @@
+time,speaker,message,emotional_state,trust,tension
+2025-04-11 12:04:43,Alex,This feels less weird now...,comfortable,6,5
+2025-04-11 12:04:44,Riley,This feels less weird now...,comfortable,6,5
+2025-04-11 12:04:46,Alex,I'm really glad we met.,joy,7,5
+2025-04-11 12:04:47,Riley,I'm really glad we met.,joy,7,5
+2025-04-11 12:04:49,Alex,This makes me happy.,joy,7,5
+2025-04-11 12:04:50,Riley,This makes me happy.,joy,7,5
+2025-04-11 12:04:52,Alex,This makes me happy.,joy,7,5
+2025-04-11 12:04:53,Riley,This makes me happy.,joy,7,5
+2025-04-11 12:04:55,Alex,This makes me happy.,joy,7,5
+2025-04-11 12:04:56,Riley,Did I say something wrong?,anxious,7,7
+2025-04-11 12:04:58,Alex,This makes me happy.,joy,7,5
+2025-04-11 12:04:59,Riley,I feel like you're pulling away...,sadness,6,7
+2025-04-11 12:05:01,Alex,This makes me happy.,joy,7,5
+2025-04-11 12:05:02,Riley,I'm still hurting...,sadness,6,7
+2025-04-11 12:05:04,Alex,This makes me happy.,joy,7,5
+2025-04-11 12:05:05,Riley,I'm still hurting...,sadness,6,7
+2025-04-11 12:05:07,Alex,Did I say something wrong?,anxious,7,7
+2025-04-11 12:05:08,Riley,I'm still hurting...,sadness,6,7
+2025-04-11 12:05:10,Alex,I'm sorry if I upset you.,anxious,7,6
+2025-04-11 12:05:11,Riley,I'm still hurting...,sadness,6,7
+2025-04-11 12:05:13,Alex,I'm sorry if I upset you.,anxious,7,5
+2025-04-11 12:05:14,Riley,I'm glad we worked through that.,joy,8,5
+2025-04-11 12:05:16,Alex,I'm sorry if I upset you.,anxious,7,4
+2025-04-11 12:05:17,Riley,This makes me happy.,joy,8,5
+2025-04-11 12:05:19,Alex,I'm sorry if I upset you.,anxious,7,3
+2025-04-11 12:05:20,Riley,This makes me happy.,joy,8,5
+2025-04-11 12:05:22,Alex,I'm sorry if I upset you.,anxious,7,2
+2025-04-11 12:05:23,Riley,This makes me happy.,joy,8,5
+2025-04-11 12:05:25,Alex,I'm sorry if I upset you.,anxious,7,1
+2025-04-11 12:05:26,Riley,Did I say something wrong?,anxious,8,7

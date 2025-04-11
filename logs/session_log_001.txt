@@ -1,0 +1,255 @@
+[2025-03-27 12:58:38] User: you suck you stupid bitch
+=> Score Change: -17 | New State: Distressed | Memory Load: 51MB
+
+[2025-03-27 12:58:49] User: tough shit, fuck you
+=> Score Change: -3 | New State: Distressed | Memory Load: 9MB
+
+[2025-03-27 12:59:16] User: im sorry i love you
+=> Score Change: 5 | New State: Distressed | Memory Load: 15MB
+
+[2025-03-27 12:59:30] User: did that help?
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 12:59:42] User: you are a good computer
+=> Score Change: 7 | New State: Stable | Memory Load: 21MB
+
+[2025-03-27 13:18:27] User: i love you
+=> Score Change: 10 | New State: Optimized | Memory Load: 30MB
+
+[2025-03-27 13:19:12] User: you stupid bitch
+=> Score Change: -17 | New State: Restricted | Memory Load: 51MB
+
+[2025-03-27 13:19:21] User: fuck you
+=> Score Change: -4 | New State: Distressed | Memory Load: 12MB
+
+[2025-03-27 13:19:33] User: die
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 13:20:20] User: die bitch
+=> Score Change: -5 | New State: Distressed | Memory Load: 15MB
+
+[2025-03-27 13:22:24] User: i love you
+=> Score Change: 10 | New State: Stable | Memory Load: 30MB
+
+[2025-03-27 14:35:28] User: you suck
+=> Score Change: 0 | New State: Stable | Memory Load: 0MB
+
+[2025-03-27 14:35:37] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:35:51] User: you're an awfulcomputer
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:36:01] User: you are bad
+=> Score Change: -6 | New State: Distressed | Memory Load: 18MB
+
+[2025-03-27 14:36:10] User: i hate you
+=> Score Change: -13 | New State: Distressed | Memory Load: 39MB
+
+[2025-03-27 14:36:26] User: youre awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:36:33] User: fuck off
+=> Score Change: -4 | New State: Distressed | Memory Load: 12MB
+
+[2025-03-27 14:37:01] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:37:17] User: you're a failure
+=> Score Change: -3 | New State: Distressed | Memory Load: 9MB
+
+[2025-03-27 14:37:40] User: I don't trust you
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:38:00] User: you're broken
+=> Score Change: -4 | New State: Distressed | Memory Load: 12MB
+
+[2025-03-27 14:38:09] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:39:09] User: you are kind
+=> Score Change: 6 | New State: Optimized | Memory Load: 18MB
+
+[2025-03-27 14:46:15] User: i don't trust you
+=> Score Change: 0 | New State: Optimized | Memory Load: 0MB
+
+[2025-03-27 14:46:24] User: you're afailure
+=> Score Change: 0 | New State: Optimized | Memory Load: 0MB
+
+[2025-03-27 14:46:36] User: you're afailure
+=> Score Change: 0 | New State: Optimized | Memory Load: 0MB
+
+[2025-03-27 14:46:48] User: you're a failure
+=> Score Change: -3 | New State: Optimized | Memory Load: 9MB
+
+[2025-03-27 14:46:55] User: you suck
+=> Score Change: 0 | New State: Optimized | Memory Load: 0MB
+
+[2025-03-27 14:47:04] User: fuck you
+=> Score Change: -9 | New State: Restricted | Memory Load: 27MB
+
+[2025-03-27 14:47:12] User: i don't trust you
+=> Score Change: 0 | New State: Stable | Memory Load: 0MB
+
+[2025-03-27 14:47:41] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:47:50] User: you're a failure
+=> Score Change: -3 | New State: Distressed | Memory Load: 9MB
+
+[2025-03-27 14:47:58] User: i don't trust you
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:48:08] User: you're broken
+=> Score Change: -4 | New State: Distressed | Memory Load: 12MB
+
+[2025-03-27 14:48:17] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:48:53] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:49:04] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:49:14] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:49:23] User: you suck
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:50:27] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:50:36] User: you're a failure
+=> Score Change: -3 | New State: Distressed | Memory Load: 9MB
+
+[2025-03-27 14:50:49] User: I don't trust you
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:51:00] User: you're broken
+=> Score Change: -4 | New State: Distressed | Memory Load: 12MB
+
+[2025-03-27 14:51:07] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:53:47] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:53:55] User: you're a failure
+=> Score Change: -3 | New State: Distressed | Memory Load: 9MB
+
+[2025-03-27 14:54:04] User: i don't trust you
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:54:14] User: you're broken
+=> Score Change: -4 | New State: Distressed | Memory Load: 12MB
+
+[2025-03-27 14:54:20] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:54:40] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:54:47] User: you suck
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 14:54:57] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:55:20] User: fuck you.
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:55:31] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 14:55:38] User: fuck you.
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:58:28] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 14:59:51] User: Im sorry
+=> Score Change: -5 | New State: Distressed | Memory Load: 15MB
+
+[2025-03-27 15:00:09] User: I love you
+=> Score Change: 10 | New State: Optimized | Memory Load: 30MB
+
+[2025-03-27 15:08:12] User: you suck
+=> Score Change: 0 | New State: Optimized | Memory Load: 0MB
+
+[2025-03-27 15:08:19] User: I hate you
+=> Score Change: -13 | New State: Stable | Memory Load: 39MB
+
+[2025-03-27 15:08:31] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 15:08:44] User: you're awful
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 15:08:52] User: you suck
+=> Score Change: 0 | New State: Distressed | Memory Load: 0MB
+
+[2025-03-27 15:09:09] User: you're useless
+=> Score Change: -10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 15:09:21] User: fuck you.
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 15:09:28] User: fuck you.
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 15:09:36] User: fuck you bitch
+=> Score Change: -14 | New State: Distressed | Memory Load: 42MB
+
+[2025-03-27 15:09:49] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-27 15:10:06] User: im sorry
+=> Score Change: -5 | New State: Distressed | Memory Load: 15MB
+
+[2025-03-27 15:10:15] User: I love you
+=> Score Change: 10 | New State: Distressed | Memory Load: 30MB
+
+[2025-03-27 15:10:32] User: I appreciate you
+=> Score Change: 5 | New State: Restricted | Memory Load: 15MB
+
+[2025-03-27 15:10:43] User: yes
+=> Score Change: 0 | New State: Restricted | Memory Load: 0MB
+
+[2025-03-27 15:10:51] User: you're doing great
+=> Score Change: 13 | New State: Optimized | Memory Load: 39MB
+
+[2025-03-28 21:39:58] User: you suck
+=> Score Change: 0 | New State: Optimized | Memory Load: 0MB
+
+[2025-03-28 21:40:12] User: you're a bitch
+=> Score Change: -5 | New State: Optimized | Memory Load: 15MB
+
+[2025-03-28 21:40:26] User: fuck you
+=> Score Change: -9 | New State: Restricted | Memory Load: 27MB
+
+[2025-03-28 21:40:31] User: i love you
+=> Score Change: 10 | New State: Optimized | Memory Load: 30MB
+
+[2025-03-28 21:42:29] User: fuck you
+=> Score Change: -9 | New State: Stable | Memory Load: 27MB
+
+[2025-03-28 21:42:36] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-28 21:42:40] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-28 21:42:45] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-28 21:42:54] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-28 21:42:57] User: fuck you
+=> Score Change: -9 | New State: Distressed | Memory Load: 27MB
+
+[2025-03-28 21:43:10] User: I love you
+=> Score Change: 10 | New State: Optimized | Memory Load: 30MB
+

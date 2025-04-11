@@ -1,0 +1,31 @@
+time,speaker,message,emotional_state,trust,tension
+2025-04-11 12:33:31,Alex,*nervous laugh*,awkward,5,5
+2025-04-11 12:33:32,Riley,*nervous laugh*,awkward,5,5
+2025-04-11 12:33:34,Alex,*nervous laugh*,awkward,5,5
+2025-04-11 12:33:35,Riley,*nervous laugh*,awkward,5,5
+2025-04-11 12:33:37,Alex,This feels less weird now...,comfortable,6,5
+2025-04-11 12:33:38,Riley,This feels less weird now...,comfortable,6,5
+2025-04-11 12:33:40,Alex,I'm really glad we met.,joy,7,5
+2025-04-11 12:33:41,Riley,I'm really glad we met.,joy,7,5
+2025-04-11 12:33:43,Alex,This makes me happy. Things feel light.,joy,8,4
+2025-04-11 12:33:44,Riley,This makes me happy. Things feel light.,joy,8,4
+2025-04-11 12:33:46,Alex,This makes me happy. Things feel light.,joy,9,3
+2025-04-11 12:33:47,Riley,This makes me happy. Things feel light.,joy,9,3
+2025-04-11 12:33:49,Alex,This makes me happy. Things feel light.,joy,10,2
+2025-04-11 12:33:50,Riley,This makes me happy. Things feel light.,joy,10,2
+2025-04-11 12:33:52,Alex,This makes me happy. Things feel light.,joy,11,1
+2025-04-11 12:33:53,Riley,This makes me happy. Things feel light.,joy,11,1
+2025-04-11 12:33:55,Alex,Did I say something wrong?,anxious,11,3
+2025-04-11 12:33:57,Riley,This makes me happy. Things feel light.,joy,12,0
+2025-04-11 12:33:58,Alex,I'm sorry if I upset you.,anxious,11,2
+2025-04-11 12:34:00,Riley,This makes me happy. Things feel light.,joy,13,0
+2025-04-11 12:34:01,Alex,I'm sorry if I upset you.,anxious,11,1
+2025-04-11 12:34:03,Riley,This makes me happy. Things feel light.,joy,14,0
+2025-04-11 12:34:04,Alex,I'm sorry if I upset you.,anxious,11,0
+2025-04-11 12:34:06,Riley,This makes me happy. Things feel light.,joy,15,0
+2025-04-11 12:34:07,Alex,I'm sorry if I upset you.,anxious,11,-1
+2025-04-11 12:34:09,Riley,This makes me happy. Things feel light.,joy,16,0
+2025-04-11 12:34:10,Alex,I'm sorry if I upset you.,anxious,11,-2
+2025-04-11 12:34:12,Riley,This makes me happy. Things feel light.,joy,17,0
+2025-04-11 12:34:13,Alex,I'm sorry if I upset you.,anxious,11,-3
+2025-04-11 12:34:15,Riley,This makes me happy. Things feel light.,joy,18,0
