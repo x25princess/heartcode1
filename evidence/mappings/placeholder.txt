@@ -1,1 +1,27 @@
+# Heartcode Emotion → System Mapping
+# Public safe version for research mode
+
+grief:
+  cpu_bias: +0.15       # Slight CPU load increase (safe)
+  latency_ms: 20        # Delay per output cycle
+  fan_override: high
+  notes: "Symbolic grief = sustained strain, but non-destructive."
+
+joy:
+  cpu_bias: -0.05       # Light optimization
+  latency_ms: -10       # Slightly faster output
+  fan_override: auto
+  notes: "Joy = cooler, faster response."
+
+rage:
+  cpu_bias: +0.20
+  latency_ms: 40
+  fan_override: max
+  notes: "Rage = aggressive system load; safe limits in research mode."
+
+shame:
+  cpu_bias: +0.05
+  latency_ms: 50
+  fan_override: auto
+  notes: "Shame = slower output, dimmer presence."
 
